@@ -109,7 +109,3 @@ Flow logic:
 4. Flow can be executed agent-by-agent or chained end-to-end
 
 ---
-
-
-
-Reply **"Next → Google Drive Submission Checklist"** to continue.
